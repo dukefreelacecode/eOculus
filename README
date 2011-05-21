@@ -1,0 +1,5 @@
+eOculus is a simple ray-tracing engine that was writter to investigate basic methods of computer graphics.
+
+eOculus supports ambient, diffuse and specular lighting. Transparency and reflection are also supported.
+
+Architecture of eOculus allows users to implement their own types of graphics objects.
